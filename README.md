@@ -17,5 +17,5 @@ This repository contains the following directories:
 
 ## More Project Details
 
-More details about our approaches and conclusions can be found in our reports (including a discussion on AGI for the ethics portion of the course).
+More details about our approaches and conclusions can be found in our [final]([https://github.com/fluderm/adtech_broken_banner_detection/blob/main/reports/Capstone_final_report.pdf) and [midterm](https://github.com/fluderm/adtech_broken_banner_detection/blob/main/reports/Capstone_midterm_report.pdf) reports (including a discussion on [AGI](https://github.com/fluderm/adtech_broken_banner_detection/blob/main/reports/Capstone_AGI_report.pdf) for the ethics portion of the course).
 
