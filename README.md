@@ -13,9 +13,9 @@ Criteo is working on spotting such misclicks and slow banner issues. For that, w
 This repository contains the following directories:
 - `datasets`: all datasets provided by Criteo, as well as a train-test split for the first dataset provided
 - `reports`: midterm, ethics and final report
-- `notebooks`: all code used to implement the methods that have been presented in the final report. 
+- `notebooks`: code used to implement the methods that have been presented in the [final report](https://github.com/fluderm/adtech_broken_banner_detection/blob/main/reports/Capstone_final_report.pdf). Notably, these are the final models, a lot of experimenting is detailed (and unstructured) in 'old code'.
 
 ## More Project Details
 
-More details about our approaches and conclusions can be found in our [final]([https://github.com/fluderm/adtech_broken_banner_detection/blob/main/reports/Capstone_final_report.pdf) and [midterm](https://github.com/fluderm/adtech_broken_banner_detection/blob/main/reports/Capstone_midterm_report.pdf) reports (including a discussion on [AGI](https://github.com/fluderm/adtech_broken_banner_detection/blob/main/reports/Capstone_AGI_report.pdf) for the ethics portion of the course).
+More details about our approaches and conclusions can be found in our [final](https://github.com/fluderm/adtech_broken_banner_detection/blob/main/reports/Capstone_final_report.pdf) and [midterm](https://github.com/fluderm/adtech_broken_banner_detection/blob/main/reports/Capstone_midterm_report.pdf) reports (including a discussion on [AGI](https://github.com/fluderm/adtech_broken_banner_detection/blob/main/reports/Capstone_AGI_report.pdf) for the ethics portion of the course).
 
